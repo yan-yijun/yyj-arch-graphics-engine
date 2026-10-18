@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1224pt" height="792pt" viewBox="0 0 1224 792" xmlns="http://www.w3.org/2000/svg">
+  <defs />
+  <g id="2D">
+    <g id="2D::02_PLAN">
+      <g id="2D::02_PLAN::BUILDING_FOOTPRINT">
+        <path d="M453.58594,427.3437 L403.20193,461.20978 L468.81204,558.82086 L519.19604,524.9548 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M455.7071,423.2625 L405.3231,389.39645 L431.06232,351.10303 L481.44632,384.96912 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M739.1957,474.64856 L776.61,499.79697 L763.3101,519.5838 L725.89575,494.43546 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M674.0168,527.2814 L682.3904,547.2321 L713.12024,534.3344 L704.7467,514.38367 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M737.00946,375.86084 L754.9666,363.79074 L729.8739,326.45926 L711.91675,338.52936 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M745.8401,445.42337 L767.4768,445.42337 L767.4768,400.90933 L745.8401,400.90933 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      </g>
+    </g>
+    <g id="2D::00_REF_PLN">
+      <path d="M472.42432,362.50726 L670.04144,362.50726 L670.04144,301.7993 L472.42432,301.7993 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <path d="M528.3128,551.96265 L644.3459,551.96265 L644.3459,491.25467 L528.3128,491.25467 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    </g>
+  </g>
+</svg>

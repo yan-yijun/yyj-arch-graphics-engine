@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1224pt" height="792pt" viewBox="0 0 1224 792" xmlns="http://www.w3.org/2000/svg">
+  <defs />
+  <g id="2D">
+    <g id="2D::02_PLAN">
+      <g id="2D::02_PLAN::BUILDING_FOOTPRINT">
+        <path d="M453.58594,434.8571 L403.20193,468.72314 L468.81204,566.3342 L519.19604,532.46814 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M706.7688,452.9367 L767.4768,452.9367 L767.4768,408.42273 L706.7688,408.42273 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M704.58264,405.1702 L754.9666,371.30414 L729.8739,333.97263 L679.4899,367.8387 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M455.7071,430.77585 L405.3231,396.90982 L431.06232,358.61642 L481.44632,392.48248 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M706.7688,460.36597 L776.61,507.3103 L763.3101,527.09717 L693.46893,480.15283 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+        <path d="M658.896,498.76804 L682.3904,554.7455 L713.12024,541.8478 L689.62585,485.87036 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      </g>
+    </g>
+    <g id="2D::00_REF_PLN">
+      <path d="M472.42432,370.02063 L670.04144,370.02063 L670.04144,309.31268 L472.42432,309.31268 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+      <path d="M528.3128,559.476 L644.3459,559.476 L644.3459,498.76804 L528.3128,498.76804 z" stroke="#000000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    </g>
+  </g>
+</svg>
