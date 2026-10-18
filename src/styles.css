@@ -1,0 +1,125 @@
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  background: #fff;
+  font-synthesis: none;
+  text-rendering: geometricPrecision;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: #fff;
+}
+
+button {
+  appearance: none;
+  border: 1px solid #000;
+  background: #fff;
+  color: #000;
+  padding: 9px 12px;
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+button:hover { background: #000; color: #fff; }
+
+.app-shell { min-height: 100vh; }
+
+.topbar {
+  min-height: 92px;
+  padding: 20px 28px;
+  border-bottom: 1px solid #000;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.eyebrow,
+.label,
+.status,
+.panel h2,
+.svg-label {
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.eyebrow {
+  margin: 0 0 6px;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(22px, 3vw, 40px);
+  line-height: .95;
+}
+
+.status { font-size: 10px; font-weight: 700; }
+
+.workspace {
+  min-height: calc(100vh - 92px);
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr) 220px;
+}
+
+.panel {
+  padding: 22px 18px;
+  border-right: 1px solid #000;
+  font-size: 12px;
+}
+
+.panel:last-child {
+  border-right: 0;
+  border-left: 1px solid #000;
+}
+
+.panel h2 {
+  margin: 0 0 22px;
+  font-size: 11px;
+}
+
+.panel p { margin: 0 0 16px; }
+.label { margin-bottom: 4px !important; font-size: 9px; font-weight: 700; }
+.rule { border-top: 1px solid #000; margin: 22px 0; }
+
+.canvas-wrap {
+  min-width: 0;
+  padding: 32px;
+  display: grid;
+  place-items: center;
+  overflow: auto;
+  background: #fff;
+}
+
+.canvas {
+  width: min(100%, 980px);
+  height: auto;
+  border: 1px solid #000;
+}
+
+.svg-title {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: .04em;
+}
+
+.svg-label {
+  font-size: 10px;
+  font-weight: 700;
+}
+
+@media (max-width: 900px) {
+  .workspace { grid-template-columns: 1fr; }
+  .panel,
+  .panel:last-child {
+    border: 0;
+    border-bottom: 1px solid #000;
+  }
+}
